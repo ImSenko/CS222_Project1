@@ -4,8 +4,8 @@ Kaleb Carter
 
 
 Usage Instuctions:
-1. Open a terminal within the Code
-2. Use the line | python Wiki_rev_finder.py "Insert Article Name here" |
+1. Open a terminal within your coding program of choice
+2. Run the following command: python Wiki_rev_finder.py <Wikipedia Article Name>
 
 
 Application Summary:
