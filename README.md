@@ -1,6 +1,4 @@
-Code Authors:
-Brexton Armstrong,
-Kaleb Carter
+Developed by Brexton Armstrong and Kaleb Carter
 
 
 Usage Instuctions:
